@@ -139,9 +139,10 @@ def set_servo(servo,val):
     
     And then use: set_servo(8,-45.0) to set the gimbal....
 
-9. Support for **joystick** has been added and tested with QGroundcontrol, using the now built in simulator.
-
-10. By tapping on the drone icon 5 times you enable test mode and can open the software with no drone connected. Useful for testing MAVLink communication and GUI.
+1.Support for **joystick** has been added and tested with QGroundcontrol, using the now built in
+simulator.
+2.By tapping on the drone icon 5 times you enable test mode and can open the software with no drone
+connected. Useful for testing MAVLink communication and GUI.
 
     
 # Building from source
